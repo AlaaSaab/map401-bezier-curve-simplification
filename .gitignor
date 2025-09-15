@@ -1,0 +1,38 @@
+# Generated EPS files (PostScript output)
+*.eps
+
+# Compiled C binaries
+test_image
+test_geometrie
+test_calcul_contour
+test_simplification_contours
+test_distance
+
+# Object files
+*.o
+*.obj
+
+# Executable files
+*.exe
+*.out
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# IDE/Editor files
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
