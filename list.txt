@@ -1,0 +1,3 @@
+./test_calcul_contour papillon2.pbm 1
+./test_simplification_contours Asterix3.pbm 2 3 1
+./test_simplification_contours Asterix3.pbm 3 30 1
